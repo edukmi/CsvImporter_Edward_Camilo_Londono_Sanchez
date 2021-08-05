@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvImporter", "CsvImporter\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvImporterModel", "CsvImporterModel\CsvImporterModel.csproj", "{E66F508A-AFB6-48AE-A672-6FDFB0CE1304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCsvImporter", "TestCsvImporter\TestCsvImporter.csproj", "{AF53E5E5-54DC-4D6C-AB8F-E388D96AC61B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCsvImporter", "TestCsvImporter\TestCsvImporter.csproj", "{AF53E5E5-54DC-4D6C-AB8F-E388D96AC61B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
