@@ -32,3 +32,15 @@ Cuando esta tabla ya se encuentre creada, el proyecto esta listo para ejecutarse
 
 Para ejecutar las pruebas del proyecto o de alguno de alguna de las dos funcionalidades especificas, dirijase al proyecto "TestCsvImporter" y elija cual de las tres pruebas va a realizar:
 --> Main(): Ejecuta el el proyecto completo
+--> DownloadFilesAsync(): Ejecuta la descarga del archivo alojado en Azure
+--> InsertDataAsync(): Ejecuta el Store Procedure que se encarga de insertar en base de datos la información del archivo descarado.
+
+### Construido con
+
+* [VisualStudio](https://visualstudio.microsoft.com/es/downloads/) - Framework BackEnd
+* [SQLServer](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - Motor base de datos
+* [ManagementStudio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) - Administrador Base de datos
+
+### Autor
+
+* **Edward Camilo Londoño Sanchez** - *Poryecto* 
